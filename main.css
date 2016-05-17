@@ -1,0 +1,33 @@
+/* ADD YOUR STYLES HERE */
+.horizontal div{
+	position: relative;
+	text-align: center;
+	display: inline-block;
+
+	
+}
+.horizontal img{
+	padding: 0px 20px;
+	vertical-align: top;
+}
+.horizontal p{
+	display: inline-block;
+	vertical-align: top;
+	
+}
+.horizontal ol{
+	display: inline-block;
+	vertical-align: top;
+
+}
+.horizontal ul{
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+.vertical div{
+	
+	padding: 100px 2px 100px 2px;	
+	text-align: left;
+}
