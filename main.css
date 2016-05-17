@@ -113,11 +113,22 @@ ol.page{
 	color: gray;
 }
 a.pagenav{
-	border-bottom: 0px none white;
+	border-bottom: none;
 	
 }
-
-
+.comment div{
+	float:left;
+}
+.comment img{
+	clear: left;
+}
+.comment time{
+	color: gray;
+	font-size: 80%;
+}
+.comment p{
+	float: right;
+}
 
 
 
