@@ -89,3 +89,35 @@ nav a {
 nav li:hover{
 	background-color: gray;
 }
+ol.page{
+	height: 25px;
+}
+.page li{ 
+	list-style: none;
+	display: inline-block;
+	text-decoration: none;
+	padding: 0px 10px;
+
+}
+
+
+.page a{
+	display: inline-block;
+	text-align: center;
+	width: 20px;
+	text-decoration: none;
+	color: #e6848a;
+	border-bottom: 3px solid #e6848a;
+}
+.page span{
+	color: gray;
+}
+a.pagenav{
+	border-bottom: 0px none white;
+	
+}
+
+
+
+
+
