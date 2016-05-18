@@ -116,19 +116,35 @@ a.pagenav{
 	border-bottom: none;
 	
 }
+
+
+
 .comment div{
-	float:left;
+	max-width: 80%;
+	display: inline-block;
+	vertical-align: top;
 }
-.comment img{
-	clear: left;
+.avatar div{
+	float:left;
+	
+}
+.content strong{
+	float: left;
+}
+.content p{
+	overflow: hidden;
+	
+}
+.content div{
+	margin: 20px;
 }
 .comment time{
 	color: gray;
 	font-size: 80%;
 }
-.comment p{
-	float: right;
+
+
+.reply div{
+	float:left;
 }
-
-
 
