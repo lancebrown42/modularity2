@@ -123,9 +123,11 @@ a.pagenav{
 	max-width: 80%;
 	display: inline-block;
 	vertical-align: top;
+	margin-left: 10px;
 }
 .avatar div{
 	float:left;
+	/*margin-right: 30px;*/
 	
 }
 .content strong{
@@ -136,7 +138,8 @@ a.pagenav{
 	
 }
 .content div{
-	margin: 20px;
+	margin: 20px 20px 0px 20px;
+
 }
 .comment time{
 	color: gray;
@@ -144,7 +147,19 @@ a.pagenav{
 }
 
 
-.reply div{
+div.reply{
+	display: inline-block;
 	float:left;
+	margin: 0px 100px 0px 0px;
+	/*padding-bottom: 20px;*/
+}
+div.avatarcontainer{
+	margin: 0px;
+	display: inline-block;
+	float: left;
+
+}
+.reply img{
+	margin: 0px;
 }
 
